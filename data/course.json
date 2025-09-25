@@ -1,0 +1,37 @@
+{
+  "term": "Spring",
+  "year": "2025",
+  "level": [
+    "Non-Credit"
+  ],
+  "topics": [
+    [
+      "Teaching and Education",
+      "Curriculum and Teaching"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "a7988b8f-6bc1-4e2f-8e07-3d250bc581fb"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "a307652f-9475-4400-9c18-ab2487686324",
+    "website": "restll-010"
+  },
+  "course_title": "Syllabus Checklist to Support Student Belonging & Achievement",
+  "hide_download": true,
+  "mit_learn_topics": [],
+  "course_description": "The syllabus informs students' first impressions of a class, the instructor, and their evaluation of whether they will succeed. Given the important role of the syllabus for students and for instructors\u2019 intentional design of the course, this syllabus checklist is a tool to guide instructors in their construction and revision of course design, assessment descriptions, teaching practices, and policies in their syllabi. Many of the checklist items also apply beyond the syllabus to other communication channels in the course (e.g., Learning Management Systems, course wikis, classroom conversations).\n\nThe checklist is adapted from a comprehensive and detailed rubric developed by members of MIT's [Teaching + Learning Lab](https://tll.mit.edu/).",
+  "department_numbers": [],
+  "extra_course_numbers": "",
+  "primary_course_number": "RES.TLL-010",
+  "learning_resource_types": [
+    "Activity Assignments"
+  ],
+  "site_uid": "75f5a9f5-c9ba-49e7-a42a-d841333717d1",
+  "site_short_id": "res.tll-010-spring-2025",
+  "site_url_path": "courses/res-tll-010-syllabus-checklist-to-support-student-belonging-achievement-spring-2025"
+}
