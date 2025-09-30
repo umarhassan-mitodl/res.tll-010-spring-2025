@@ -28,6 +28,7 @@
   "department_numbers": [],
   "extra_course_numbers": "",
   "primary_course_number": "RES.TLL-010",
+  "hide_download_original": true,
   "learning_resource_types": [
     "Activity Assignments"
   ],
